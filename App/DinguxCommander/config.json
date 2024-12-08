@@ -1,0 +1,6 @@
+{
+    "label":"commander_eng",
+    "icon":"commander.png",
+    "launch":"DinguxCommander.sh",
+    "description":"DinguxCommander-355 Eng"
+}
